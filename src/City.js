@@ -74,15 +74,20 @@ const City = ({ city }) => {
               fill="#dde9ed"
             />
           </svg>
+          <p className="text-center text-gray-500 mt-2 text-sm capitalize">
+            {city.weather[0].description}
+          </p>
           <p className="text-center text-gray-500 mt-2 text-sm">
-            {city.weather[0].main}
+            Hissedilen : {Math.round(city.main.feels_like)}°C
           </p>
         </div>
         <div>
           <p className="text-7xl font-bold text-right text-gray-900">
-            {city.main.temp}°
+            {Math.round(city.main.temp)}°C
           </p>
-          <p className="text-gray-900 mt-6 text-3xl">{city.name}</p>
+          <p className="text-gray-900 mt-6 text-3xl">
+            {city.name}, {city.sys.country}
+          </p>
         </div>
       </div>
     </div>

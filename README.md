@@ -1,2 +1,2 @@
 # Bu Proje React İle Yapılabilecek Başkangıç Projelerinden Birisi
-Bu projeyi yaparken youtube dan izleyerek yaptım o yüzden kendi projemmiş gibi yüklemek doğru olmayabilir fakat bir şeyler öğrenerek ve zevk alarak yaptığım için buraya yüklemek istedim react ile kendimi geliştirerek çok daha iyi projeler ve kodlar yazacağımdan eminim. 
+Bu projeyi yaparken youtube dan izleyerek yaptım o yüzden kendi projemmiş gibi yüklemek doğru olmayabilir fakat bir şeyler öğrenerek ve zevk alarak yaptığım için buraya yüklemek istedim react ile kendimi geliştirerek çok daha iyi projeler ve kodlar yazacağımdan eminim.
